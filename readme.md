@@ -9,7 +9,7 @@ _Utfordring: bruke forskjellige programmeringsspråk for å løse hver luke!_
 | 1     | Bash      | 
 | 2     | Python    |
 | 3     | Ruby      |
-| 4     | ???       |
+| 4     | Go        |
 | 5     | ???       |
 | 6     | ???       |
 | 7     | ???       |
