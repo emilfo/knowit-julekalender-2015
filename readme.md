@@ -14,6 +14,9 @@ _"Han (Emil journ. anm.) er et forbilde for oss alle!"_
 _"Emil er en pioneer, ingen utfordring kan måle seg med det han forsøker nå."_
 -Edmund Hillary
 
+_"Knakandes fin fyr (latter)"_
+-Vegar Molvig
+
 
 | Day        | Programming Language |
 | ------------- |:-------------:|
