@@ -1,7 +1,18 @@
 ### Knowits julekalender 2015 - løsninger
 [Knowits julekalender](https://julekalender.knowit.no)
 
-_Utfordring: bruke forskjellige programmeringsspråk for å løse hver luke!_
+
+###### Utfordring:
+Det er ikke lov å bruke samme programmeringsspråk på noen luker!
+
+_"Denne utfordringen pusher grensene for hva en programmerer kan gjøre."_
+-Donald Knuth
+
+_"Han (Emil journ. anm.) er et forbilde for oss alle!"_ 
+-Ghandi
+
+_"Emil er en pioneer, ingen utfordring kan måle seg med det han forsøker nå."_
+-Edmund Hillary
 
 
 | Day        | Programming Language |
@@ -30,3 +41,6 @@ _Utfordring: bruke forskjellige programmeringsspråk for å løse hver luke!_
 | 22    | ???       |
 | 23    | ???       |
 | 24    | ???       |
+
+_Disclaimer: Siden jeg ikke kan alle disse språkene fra før av vil løsningene ha
+mangler i både kodestil og effektivitet!_
