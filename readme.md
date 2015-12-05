@@ -24,7 +24,7 @@ _"Knakandes fin fyr (latter)"_
 | 2     | Python    |
 | 3     | Ruby      |
 | 4     | Go        |
-| 5     | ???       |
+| 5     | Julia     |
 | 6     | ???       |
 | 7     | ???       |
 | 8     | ???       |
