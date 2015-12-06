@@ -19,31 +19,34 @@ _"Knakandes fin fyr (latter)"_
 
 
 | Day        | Programming Language |
-| ------------- |:-------------:|
-| 1     | Bash      | 
-| 2     | Python    |
-| 3     | Ruby      |
-| 4     | Go        |
-| 5     | Julia     |
-| 6     | ???       |
-| 7     | ???       |
-| 8     | ???       |
-| 9     | ???       |
-| 10    | ???       |
-| 11    | ???       |
-| 12    | ???       |
-| 13    | ???       |
-| 14    | ???       |
-| 15    | ???       |
-| 16    | ???       |
-| 17    | ???       |
-| 18    | ???       |
-| 19    | ???       |
-| 20    | ???       |
-| 21    | ???       |
-| 22    | ???       |
-| 23    | ???       |
-| 24    | ???       |
+| ---------- |:--------------------:|
+| 1          | Bash                 | 
+| 2          | Python               |
+| 3          | Ruby                 |
+| 4          | Go                   |
+| 5          | Julia                |
+| 6          | MATLAB               |
+| 7          | ???                  |
+| 8          | ???                  |
+| 9          | ???                  |
+| 10         | ???                  |
+| 11         | ???                  |
+| 12         | ???                  |
+| 13         | ???                  |
+| 14         | ???                  |
+| 15         | ???                  |
+| 16         | ???                  |
+| 17         | ???                  |
+| 18         | ???                  |
+| 19         | ???                  |
+| 20         | ???                  |
+| 21         | ???                  |
+| 22         | ???                  |
+| 23         | ???                  |
+| 24         | ???                  |
 
 _Disclaimer: Siden jeg ikke kan alle disse språkene fra før av vil løsningene ha
 mangler i både kodestil og effektivitet!_
+
+Løsningene blir automatisk pushet 06.00 dagen etter (da knowit stenger luka for
+svar).
