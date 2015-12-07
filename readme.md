@@ -26,7 +26,7 @@ _"Knakandes fin fyr (latter)"_
 | 4          | Go                   |
 | 5          | Julia                |
 | 6          | MATLAB               |
-| 7          | ???                  |
+| 7          | Assembly             |
 | 8          | ???                  |
 | 9          | ???                  |
 | 10         | ???                  |
