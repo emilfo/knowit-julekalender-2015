@@ -34,17 +34,10 @@ _reverse:
     movl    $0,%edx     #clearing edx (before division)
     div     %ebx
 
-    popl    %eax        #'reverse' is now in eax
-    addl    %edx,%eax   #'number' modulo 10 added to reverse
-    pushl   %eax        #pushing 'reverse' to stack again
-
-    movl    $0,%edx
-    movl    %ecx,%eax   #moving 'number' to eax
-    div     %ebx        #divide 'number' by ten
-
     movl    %eax,%ecx   #moving result back to ecx
 
     popl    %eax        #'reverse' in eax again
+    addl    %edx,%eax   #'number' modulo 10 added to reverse
 
     jmp     _reverse    
 
