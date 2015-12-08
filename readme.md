@@ -27,7 +27,7 @@ _"Knakandes fin fyr (latter)"_
 | 5          | Julia                |
 | 6          | MATLAB               |
 | 7          | Assembly             |
-| 8          | ???                  |
+| 8          | Groovy               |
 | 9          | ???                  |
 | 10         | ???                  |
 | 11         | ???                  |
