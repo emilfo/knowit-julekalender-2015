@@ -28,7 +28,7 @@ _"Knakandes fin fyr (latter)"_
 | 6          | MATLAB               |
 | 7          | Assembly             |
 | 8          | Groovy               |
-| 9          | ???                  |
+| 9          | Lua                  |
 | 10         | ???                  |
 | 11         | ???                  |
 | 12         | ???                  |
