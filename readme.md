@@ -29,7 +29,7 @@ _"Knakandes fin fyr (latter)"_
 | 7          | Assembly             |
 | 8          | Groovy               |
 | 9          | Lua                  |
-| 10         | ???                  |
+| 10         | Perl                 |
 | 11         | ???                  |
 | 12         | ???                  |
 | 13         | ???                  |
