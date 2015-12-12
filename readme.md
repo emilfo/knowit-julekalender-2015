@@ -31,7 +31,7 @@ _"Knakandes fin fyr (latter)"_
 | 9          | Lua                  |
 | 10         | Perl                 |
 | 11         | Clojure              |
-| 12         | ???                  |
+| 12         | Nim                  |
 | 13         | ???                  |
 | 14         | ???                  |
 | 15         | ???                  |
