@@ -30,7 +30,7 @@ _"Knakandes fin fyr (latter)"_
 | 8          | Groovy               |
 | 9          | Lua                  |
 | 10         | Perl                 |
-| 11         | ???                  |
+| 11         | Clojure              |
 | 12         | ???                  |
 | 13         | ???                  |
 | 14         | ???                  |
